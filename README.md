@@ -21,10 +21,10 @@ Team Information:
     Details about the teams playing, including team line-ups.
 
 Technology used:
-     * Java.
-     * Swing frame work
+     1. Java.
+     2. Swing frame work
 
  user help :
-     user use this application with default teams name and players name.
+     user can use this application with default teams name and players name.
  you can edit teams name and players name.
 
