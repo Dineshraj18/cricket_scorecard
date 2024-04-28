@@ -10,10 +10,13 @@ Features:
 
 Live Score Updates: 
     Displays live scores of cricket matches, including detailed ball-by-ball updates.
+    
 Player Statistics:
     Provides comprehensive statistics for each player, such as runs scored, wickets taken, overs bowled.
+    
 match Summary: 
     best performances of the match, including total runs, wickets, overs played.
+    
 Team Information:
     Details about the teams playing, including team line-ups.
 
